@@ -1,0 +1,4 @@
+I'm looking for new ways to improve on this add-in. this time around:
+   1. Initial release.
+   2. Basic features enabled.
+   3. Subscription and update check integrated
