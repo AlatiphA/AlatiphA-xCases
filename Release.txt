@@ -1,7 +1,7 @@
-📦 Version 1.1.0 – GitHub Migration Update
+Version 1.1.0 – GitHub Migration Update
 I'm looking for new ways to improve on this add-in. This time around:
-  - ✅ Moved all versioning, release notes, and update files from Google Drive to GitHub.
-  - 🗂 Version.txt and Release.txt now served via GitHub raw URLs.
-  - 🔒 Added SHA-256 hash verification for downloaded update files.
-  - 📥 Automatic add-in download and instal now uses GitHub Releases.
-  - 🧪 Improved Get Local Version reliability.
+  - Moved all versioning, release notes, and update files from Google Drive to GitHub.
+  - Version.txt and Release.txt now served via GitHub raw URLs.
+  - Added SHA-256 hash verification for downloaded update files.
+  - Automatic add-in download and install now uses GitHub Releases.
+  - Improved Get Local Version reliability.
